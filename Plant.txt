@@ -1,0 +1,5 @@
+Ok basically, this goes over bugs (known), bugs that have been fixed, yet the version hasn't been implemented, or changes
+
+W1:
+Peashooter: [Shoots a scatter shot of 3 projectiles - 1 going up, 1 going down, 1 going straight] - implemented fully
+Chomper: [just td chomper :tearing_face:] - implemented fully.
