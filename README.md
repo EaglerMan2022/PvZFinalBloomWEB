@@ -3,3 +3,9 @@
 
 
 Hello, this is a mod i was planning to make on qotl - a pvz decompile, however, i recently found portable, which had caught my eye due to it being a decomp, with BROWSER access - meaning yes, a SCHOOL CHROMEBOOK (if it supports wasm (web assemby)) can run this.
+
+**Future updates:**
+-new variants
+-chinese text support [probably not, but maybe]?
+-minigames
+-android support.
