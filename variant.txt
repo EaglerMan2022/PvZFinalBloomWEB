@@ -1,4 +1,4 @@
-All zombies hp: - 2000 default, if changed, even higher.
+All zombies hp: - increased heavily - same with helmets
 
 BROWNCOAT:
 -no changes (currently)
@@ -9,5 +9,10 @@ CONEHEAD:
 -no changes (currently)
 Variants-
 -Dancer Conehead (1/9 chance of spawning) (spawns backup dancers on death), Gramaphone conehead (1/8 chance spawn) (heals all zombies in a 3x3 radius by 700 every 6 seconds - matches zombies hp increase), ender conehead (1/8) (tp depends on damage)
+
+SCREEN DOOR:
+-no changes (currently)
+Variants-
+-RGB ScreenDoor (1/8 chance of spawning) (Every 10 bites, spawns a buckethead - maxes at 10 spawns.), more soon
 
 -
