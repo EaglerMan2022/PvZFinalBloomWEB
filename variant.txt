@@ -15,4 +15,7 @@ SCREEN DOOR:
 Variants-
 -RGB ScreenDoor (1/8 chance of spawning) (Every 10 bites, spawns a buckethead - maxes at 10 spawns.), more soon
 
--
+Polevaulter:
+-Jumps 3 tiles, instantly kills a plant on eating, moves even faster
+Variants-
+none
