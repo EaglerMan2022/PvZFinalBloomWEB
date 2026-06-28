@@ -2,4 +2,5 @@ Ok basically, this goes over bugs (known), bugs that have been fixed, yet the ve
 
 W1:
 Peashooter: [Shoots a scatter shot of 3 projectiles - 1 going up, 1 going down, 1 going straight] - implemented fully
+Snow pea: [Shoots a projectile, freezes enemy on impact] - implemented fully 
 Chomper: [just td chomper :tearing_face:] - implemented fully.
